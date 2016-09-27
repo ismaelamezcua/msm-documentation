@@ -8,3 +8,17 @@ Blueprints can be linked to several [Live Copies](LiveCopy.md) (meaning several 
 A blueprint is a consistent source for Live Copies.
 A Blueprint defines the rollout configs for all Live Copies, unless the Live Copy has been designated a different config.
 One benefit of Blueprints is that they can be rolled out, which pushes all changes to the live copies.
+
+## Creating a Blueprint
+
+When you create a blueprint configuration, you select a template that defines the internal structure of the blueprint. The default blueprint template assumes that the source website has the following characteristics:
+
+- The web site has a root page.
+- The immediate child pages of the root are language branches of the web site. When creating a live copy, the languages are presented as optional content to include in the copy.
+- The root of each language branch has one or more child pages. When creating a live copy, child pages are presented as a chapter that you can include in the live copy.
+
+To create a blueprint configuration:
+
+1. Open the **Tools** console <http://localhost:4502/miscadmin>
+2. In the folder tree, select **Tools**, then **MSM Control Center**.
+3. Click
