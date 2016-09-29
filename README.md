@@ -3,9 +3,10 @@
 Multi Site Manager (MSM) enables you to use the same site content in multiple locations. Content can be managed at a
 page or a paragraph level. MSM allows user to replicate changes to content on one site to other sites. It also
 facilitates management of language versions of sites.
+
 <http://dcpinfo.alticor.com/en_us/multi-site-manager.html>
 
-## Helpful term:
+## Helpful terms:
 
 - **Language Copy**: a language variation of the site.
 - **Live copy**: A site copied from another site.
@@ -14,6 +15,7 @@ facilitates management of language versions of sites.
 - **MSM Console**: A tool used to view and manage the relationships between Blueprints and Live Copies.
 
 # Possible scenarios
+
 <https://docs.adobe.com/docs/en/aem/6-2/administer/sites/msm.html>
 
 ## Multinationals - Global to Local Company
@@ -54,3 +56,5 @@ We can use MSM to create versions of a specific sub-branch.
                 |- v3.0
                 |- v2.0
                 |- v1.0
+                
+Next: [Blueprints](Blueprints.md)
