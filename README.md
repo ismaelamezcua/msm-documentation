@@ -6,7 +6,7 @@ facilitates management of language versions of sites.
 
 <http://dcpinfo.alticor.com/en_us/multi-site-manager.html>
 
-## Helpful term:
+## Helpful terms:
 
 - **Language Copy**: a language variation of the site.
 - **Live copy**: A site copied from another site.
