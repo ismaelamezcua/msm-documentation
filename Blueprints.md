@@ -22,8 +22,21 @@ To create a blueprint configuration:
 1. Open the **Tools** console <http://localhost:4502/miscadmin>
 2. In the folder tree, select **Tools**, then **MSM Control Center**.
 3. Select **New** and then **New Page**.
+   ![alt text](./img/blueprint1.png  "Create blueprint")
 4. Enter a title (MagmaLabs Blog Blueprint), a name (magmablog-blueprint) and select **Blueprint template**.
 5. Click **Create**.
 6. **Double-click** on the name to open the new blueprint and click **Edit**.
 7. In the settings dialog, enter the name, a description, and (optional) a thumbnail image. Select the source path for the site (/content/blog) or the pages for the blueprint.
+   ![alt text](./img/blueprint2.png "Select path")
 8. Click **OK**.
+
+## Adding Rollout Configs
+
+What are rollout configs?
+
+1. Select the **parent** of the blueprint site in the Websites console.
+2. **Right-click** on the blueprint site (the site you created the blueprint of) and select **Properties**.
+3. Select the **Blueprint** tab (Disabled if the selected site is not a blueprint).
+4. **Add rollout** configurations (Recommended to use the standard rollout configuration).
+
+Next: [Live Copy](LiveCopy.md)
