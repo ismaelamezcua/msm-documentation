@@ -21,4 +21,9 @@ To create a blueprint configuration:
 
 1. Open the **Tools** console <http://localhost:4502/miscadmin>
 2. In the folder tree, select **Tools**, then **MSM Control Center**.
-3. Click
+3. Select **New** and then **New Page**.
+4. Enter a title (MagmaLabs Blog Blueprint), a name (magmablog-blueprint) and select **Blueprint template**.
+5. Click **Create**.
+6. **Double-click** on the name to open the new blueprint and click **Edit**.
+7. In the settings dialog, enter the name, a description, and (optional) a thumbnail image. Select the source path for the site (/content/blog) or the pages for the blueprint.
+8. Click **OK**.
